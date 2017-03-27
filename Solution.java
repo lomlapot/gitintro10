@@ -1,10 +1,5 @@
 import java.util.Scanner;/*
 Массив из строчек в обратном порядке !!!!!!!&&&&&&&7777777???????????
-;pojupo9upupoupouipoipouio
-klll
-lkkk
-lohjlhjoij
-no nono  no
 */
 
 public class Solution {
