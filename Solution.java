@@ -1,11 +1,11 @@
 import java.util.Scanner;/*
-Массив из строчек в обратном порядке !@
+Массив из строчек в обратном порядке 
 
 */
 
 public class Solution {
     public static void main(String[] args) throws Exception {
-        //напишите тут ваш код l;kjlkjlkjlkjl
+        //напишите тут ваш код
         String [] array = new String[10];
         Scanner scan = new Scanner(System.in);
 
